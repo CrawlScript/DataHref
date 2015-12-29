@@ -3,6 +3,21 @@ mllib、scikit等数据挖掘工具的教程
 
 点击进入mllib、scikit等目录可以查看不同工具的教程，教程不断更新中...
 
+教程列表：
+
+###MLlib
+
++ [MLlib的kmeans算法](https://github.com/CrawlScript/DataHref/blob/master/mllib/kmeans.md)
+
+###scikit
+
++ [scikit的svm接口](https://github.com/CrawlScript/DataHref/blob/master/scikit/svm.md)
++ [scikit中的决策树](https://github.com/CrawlScript/DataHref/blob/master/scikit/decision_tree.md)
+
+###算法
+
++ [数据挖掘十大算法](https://github.com/CrawlScript/DataHref/blob/master/algorithm/top10.md)
+
 
 ###开源数据挖掘工具简介
 
