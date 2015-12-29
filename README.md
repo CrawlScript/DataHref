@@ -21,6 +21,7 @@
 
 ###MLlib
 
++ [MLlib环境配置（JAVA）](http://datahref.com/book/article.php?article=mining_mllib_config_java)
 + [MLlib的kmeans算法](http://datahref.com/book/article.php?article=mllib_kmeans)
 
 ###scikit
