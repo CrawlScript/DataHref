@@ -14,6 +14,10 @@ mllib、scikit等数据挖掘工具的教程
 + [scikit的svm接口](https://github.com/CrawlScript/DataHref/blob/master/scikit/svm.md)
 + [scikit中的决策树](https://github.com/CrawlScript/DataHref/blob/master/scikit/decision_tree.md)
 
+###libsvm
+
++ [libsvm编译方法](https://github.com/CrawlScript/DataHref/blob/master/libsvm/compile.md)
+
 ###算法
 
 + [数据挖掘十大算法](https://github.com/CrawlScript/DataHref/blob/master/algorithm/top10.md)
@@ -21,7 +25,6 @@ mllib、scikit等数据挖掘工具的教程
 
 ###开源数据挖掘工具简介
 
-本文介绍几种好用的开源数据挖掘工具
 
 
 ####MLlib
